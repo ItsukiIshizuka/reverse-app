@@ -1,5 +1,6 @@
 # README
 ***Tech drill #56***
+[you can check image to LINK](https://github.com/ItsukiIshizuka/reverse-app/issues/1#issue-619887876)
 
 # Why
 I made it for me to understand that use Helper Methods function.
