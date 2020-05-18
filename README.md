@@ -1,24 +1,14 @@
 # README
+***Tech drill #56***
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Why
+I made it for me to understand that use Helper Methods function.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# What
+## create
+1. create "palindrome?" method in app/helpers/items_helper.rb 
+## add
+1. I added the under code to the 17 line in app/views/items/index.html.erb
+```html
+<td><%= palindrome?(item.name) %></td>
+```
